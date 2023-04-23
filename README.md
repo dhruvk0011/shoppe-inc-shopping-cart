@@ -1,4 +1,4 @@
-# Shoppe
+# Shoppe Inc.
 
 An shopping cart
 
